@@ -1,5 +1,5 @@
 # How To Run
-``bash
+```bash
 systemctl --user start autosync-repos.service
 systemctl --user status autosync-repos.service
 ```
